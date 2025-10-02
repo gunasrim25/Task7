@@ -19,4 +19,3 @@ SELECT product,
 FROM sales 
 GROUP BY product;
 
-BY: Gunasri M
